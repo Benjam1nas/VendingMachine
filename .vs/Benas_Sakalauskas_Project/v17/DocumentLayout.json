@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE517F6-5414-4DF6-BE0F-C6D002DA40CF}|Core\\Core.csproj|c:\\users\\benas\\source\\repos\\benas_sakalauskas_project\\core\\features\\machine\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE517F6-5414-4DF6-BE0F-C6D002DA40CF}|Core\\Core.csproj|solutionrelative:core\\features\\machine\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4BE0E8-253E-4267-AFE3-D4E265ADA529}|Benas_Sakalauskas_Project\\WebApi.csproj|c:\\users\\benas\\source\\repos\\benas_sakalauskas_project\\benas_sakalauskas_project\\endpoints\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4BE0E8-253E-4267-AFE3-D4E265ADA529}|Benas_Sakalauskas_Project\\WebApi.csproj|solutionrelative:benas_sakalauskas_project\\endpoints\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE517F6-5414-4DF6-BE0F-C6D002DA40CF}|Core\\Core.csproj|c:\\users\\benas\\source\\repos\\benas_sakalauskas_project\\core\\interfaces\\services\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE517F6-5414-4DF6-BE0F-C6D002DA40CF}|Core\\Core.csproj|solutionrelative:core\\interfaces\\services\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4BE0E8-253E-4267-AFE3-D4E265ADA529}|Benas_Sakalauskas_Project\\WebApi.csproj|c:\\users\\benas\\source\\repos\\benas_sakalauskas_project\\benas_sakalauskas_project\\endpoints\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4BE0E8-253E-4267-AFE3-D4E265ADA529}|Benas_Sakalauskas_Project\\WebApi.csproj|solutionrelative:benas_sakalauskas_project\\endpoints\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4BE0E8-253E-4267-AFE3-D4E265ADA529}|Benas_Sakalauskas_Project\\WebApi.csproj|c:\\users\\benas\\source\\repos\\benas_sakalauskas_project\\benas_sakalauskas_project\\endpoints\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4BE0E8-253E-4267-AFE3-D4E265ADA529}|Benas_Sakalauskas_Project\\WebApi.csproj|solutionrelative:benas_sakalauskas_project\\endpoints\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MachineService.cs",
+              "DocumentMoniker": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Core\\Features\\Machine\\Services\\MachineService.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Machine\\Services\\MachineService.cs",
+              "ToolTip": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Core\\Features\\Machine\\Services\\MachineService.cs",
+              "RelativeToolTip": "Core\\Features\\Machine\\Services\\MachineService.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAmwNUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:05:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMachineService.cs",
+              "DocumentMoniker": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Core\\Interfaces\\Services\\IMachineService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\Services\\IMachineService.cs",
+              "ToolTip": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Core\\Interfaces\\Services\\IMachineService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\Services\\IMachineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:03:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoinController.cs",
+              "DocumentMoniker": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Benas_Sakalauskas_Project\\Endpoints\\CoinController.cs",
+              "RelativeDocumentMoniker": "Benas_Sakalauskas_Project\\Endpoints\\CoinController.cs",
+              "ToolTip": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Benas_Sakalauskas_Project\\Endpoints\\CoinController.cs",
+              "RelativeToolTip": "Benas_Sakalauskas_Project\\Endpoints\\CoinController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:03:04.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MachineController.cs",
+              "DocumentMoniker": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Benas_Sakalauskas_Project\\Endpoints\\MachineController.cs",
+              "RelativeDocumentMoniker": "Benas_Sakalauskas_Project\\Endpoints\\MachineController.cs",
+              "ToolTip": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Benas_Sakalauskas_Project\\Endpoints\\MachineController.cs",
+              "RelativeToolTip": "Benas_Sakalauskas_Project\\Endpoints\\MachineController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:01:05.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Benas_Sakalauskas_Project\\Endpoints\\ItemController.cs",
+              "RelativeDocumentMoniker": "Benas_Sakalauskas_Project\\Endpoints\\ItemController.cs",
+              "ToolTip": "C:\\Users\\benas\\source\\repos\\Benas_Sakalauskas_Project\\Benas_Sakalauskas_Project\\Endpoints\\ItemController.cs",
+              "RelativeToolTip": "Benas_Sakalauskas_Project\\Endpoints\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:00:11.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
